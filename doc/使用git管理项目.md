@@ -21,3 +21,11 @@
 6. 推送到远程仓库
 
    $ git push origin master
+
+7. 本地创建分支并切换
+
+   $ git checkout -b dev
+
+8. 将本地分支推送到远程仓库
+
+   $ git push origin dev
