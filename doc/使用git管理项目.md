@@ -29,3 +29,7 @@
 8. 将本地分支推送到远程仓库
 
    $ git push origin dev
+
+9. 根据远程dev生成本地dev
+
+   $ git checkout -b dev origin/dev
