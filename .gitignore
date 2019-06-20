@@ -1,0 +1,8 @@
+
+# dependencies
+/code/react-admin-client/node_modules
+
+# production
+/code/react-admin-client/build
+
+
